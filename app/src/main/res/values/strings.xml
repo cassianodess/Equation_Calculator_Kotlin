@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Raiz 1° e 2° grau</string>
+    <string name="calcular">Calcular</string>
+    <string name="x">x²+</string>
+    <string name="_0">=0</string>
+    <string name="x_">x+</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="a">a</string>
+    <string name="x1">x1:</string>
+    <string name="x2">x2:</string>
+</resources>
